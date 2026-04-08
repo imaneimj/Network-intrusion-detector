@@ -1,0 +1,6 @@
+# Blacklist des IP suspectes
+192.168.1.10
+10.0.0.5
+
+# IP de test à surveiller
+127.0.0.1
